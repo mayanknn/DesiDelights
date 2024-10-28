@@ -14,5 +14,11 @@ Currently, two official plugins are available:
 
 ![{DB1B2573-2216-42B2-903A-9FBE7C4CC24D}](https://github.com/user-attachments/assets/78c8aef7-208e-4156-b925-b218e57efb9c)
 
+![Screenshot 2024-10-28 233727](https://github.com/user-attachments/assets/0480fb96-e7e0-4bea-a8df-f5f55797286f)
+
+![Screenshot 2024-10-28 233744](https://github.com/user-attachments/assets/1642ca0a-c2be-49b4-b818-d3b4c03fae8a)
+
+
+
 
 
