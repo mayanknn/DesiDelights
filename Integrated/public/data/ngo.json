@@ -1,0 +1,74 @@
+[
+    {
+      "organizationName": "Bhagwati Old Age Home (ansh Foundation)",
+      "address": "Near Shaily House Navrangpura, Ahmedabad",
+      "coordinates": {
+        "latitude": 23.0359998,
+        "longitude": 72.5643429,
+        "accuracy": "village"
+      }
+    },
+    {
+      "organizationName": "Visamo Foundation",
+      "address": "Vejalpur Police Chowki Vejalpur, Ahmedabad",
+      "coordinates": {
+        "latitude": 22.99672875,
+        "longitude": 72.53713629594334,
+        "accuracy": "police"
+      }
+    },
+    {
+      "organizationName": "Shree Man Mandir Charitable Trust",
+      "address": "Memnagar, Ahmedabad",
+      "coordinates": {
+        "latitude": 23.0530844,
+        "longitude": 72.5329308,
+        "accuracy": "suburb"
+      }
+    },
+    {
+      "organizationName": "Matoshree Vrudhashram",
+      "address": "Akhbarnagar Cross Road New Vadaj, Ahmedabad",
+      "coordinates": {
+        "latitude": 23.0690154,
+        "longitude": 72.5654809,
+        "accuracy": "house"
+      }
+    },
+    {
+      "organizationName": "St Xaviers Social Service Society",
+      "address": "Loyola School Navrangpura, Ahmedabad",
+      "coordinates": {
+        "latitude": 23.0484821,
+        "longitude": 72.54901519900383,
+        "accuracy": "school"
+      }
+    },
+    {
+      "organizationName": "Jiva Hari Foundation",
+      "address": "Sola Road Naranpura Vistar, Ahmedabad",
+      "coordinates": {
+        "latitude": 23.0567133,
+        "longitude": 72.5508575,
+        "accuracy": "suburb"
+      }
+    },
+    {
+      "organizationName": "Andh Apang Kalyan Kendra",
+      "address": "Ghatlodiya, Ahmedabad",
+      "coordinates": {
+        "latitude": 23.075569,
+        "longitude": 72.549728,
+        "accuracy": "suburb"
+      }
+    },
+    {
+      "organizationName": "Visamo Foundation",
+      "address": "Underbridge New Vadaj, Ahmedabad",
+      "coordinates": {
+        "latitude": 23.0690154,
+        "longitude": 72.5654809,
+        "accuracy": "house"
+      }
+    }
+  ]
